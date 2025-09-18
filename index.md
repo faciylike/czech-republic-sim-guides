@@ -65,3 +65,10 @@ layout: default
 
 　　最后啰嗦一句：保护好你的SIM卡和包装！那个PUK码万一锁卡了能救你。祝你在布拉格广场的视频通话畅通无阻，在CK小镇的照片秒发成功！
 　　<<<END_
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Czech Republic eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/czech-republic-data-plans)
